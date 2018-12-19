@@ -1,3 +1,4 @@
+# Copyright (c) 2013-2018 Hanson Robotics, Ltd, all rights reserved. 
 # ros_pololu
 Driver for Pololu motors with ROS.
 Controls Pololu Maestro as well as Micro Serial Servo Controller 

@@ -1,3 +1,4 @@
+# Copyright (c) 2013-2018 Hanson Robotics, Ltd, all rights reserved 
 from collections import Sequence, deque
 from copy import copy
 from math import sqrt, atan, tan
