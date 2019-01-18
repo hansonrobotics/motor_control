@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Copyright (c) 2013-2018 Hanson Robotics, Ltd, all rights reserved 
 
 import rospy
 from motors_safety import Safety

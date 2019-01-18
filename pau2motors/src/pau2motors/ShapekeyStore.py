@@ -1,3 +1,4 @@
+# Copyright (c) 2013-2018 Hanson Robotics, Ltd, all rights reserved 
 __doc__ = """
 The lists of shapekeys defined here correspond to the coefficient array
 "m_coeffs" in pau.msg. These keys are used in the config files to specify

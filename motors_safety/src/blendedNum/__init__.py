@@ -1,3 +1,4 @@
+# Copyright (c) 2013-2018 Hanson Robotics, Ltd, all rights reserved 
 from time import time as systime
 from .plumbing import Pipes, Sources, Plumbing
 from .plumbing import _vectorize, _devectorize, _flatten

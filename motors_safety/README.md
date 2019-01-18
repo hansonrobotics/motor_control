@@ -1,3 +1,4 @@
+# Copyright (c) 2013-2018 Hanson Robotics, Ltd, all rights reserved. 
 # motors_safety
 Safety Layer for robot
 ### Current Rules
